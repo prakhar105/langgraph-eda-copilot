@@ -1,4 +1,4 @@
-#  LangGraph EDA Copilot – Local, Multi-Agent Data Science Assistant
+#  LangGraph EDA Copilot - Local, Multi-Agent Data Science Assistant
 
 An intelligent, agent-based Exploratory Data Analysis (EDA) pipeline built with **LangGraph**, powered by **open-source LLMs** like **Mistral-7B**, and served via **Gradio UI**.
 
