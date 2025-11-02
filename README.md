@@ -6,7 +6,7 @@ Upload any CSV dataset → Let the pipeline ingest, clean, analyze, summarize, a
 
 ---
 
-## 🚀 Demo Preview
+##  Demo Preview
 
 ![](https://github.com/prakhar105/langgraph-eda-copilot/blob/master/assests/img.png)
 
