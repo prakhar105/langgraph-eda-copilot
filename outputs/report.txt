@@ -1,0 +1,23 @@
+## Summary statistics
+
+The summary statistics data provided includes information on various natural disasters, including earthquakes, tsunamis, and landslides. The data includes variables such as magnitude, cdi, mmI, sig, nst, dmin, gap, depth, latitude, longitude, Year, Month, and tsunami.
+
+The magnitude variable includes data on the scale of earthquakes, with a mean of 6.94 and a range from 6.5 to 9.1. The cdi variable includes data on the scale of damage caused by earthquakes, with a mean of 4.33 and a range from 0.0 to 9.0. The mmI variable includes data on the scale of damage caused by landslides, with a mean of 5.96 and a range from 1.0 to 9.0. The sig variable includes data on the scale of damage caused by tsunamis, with a mean of 870.1 and a range from 650.0 to 2910.0. The nst variable includes data on the scale of damage caused by landslides, with a mean of 230.25 and a range from 0.0 to 934.0. The dmin variable includes data on the depth of earthquakes, with a mean of 1.3258 and a range from 0.0 to 17.65. The gap variable includes data on the distance between earthquakes, with a mean of 25.0389 and a range from 0.0 to 239.0. The depth variable includes data on the depth of landslides, with a mean of 75.88 and a range from 2.7 to 670.81. The latitude and longitude variables include data on the location of each disaster, with ranges from -61.8484 to 71.6312 and from -179.968 to 179.662, respectively.
+
+The Year variable includes data on the year each disaster occurred, with a mean of 2012.28 and a range from 2001.0 to 2022.0. The Month variable includes data on the month each disaster occurred, with
+
+## Correlation matrix
+
+### CORRELATION MAGNITUDE DATA SUMMARY
+
+The Correlation Matrix data indicates the following insights:
+
+1. The correlation coefficient between the magnitude and CDI (central dipole index) is 1.0, indicating a strong positive correlation. This means that when the magnitude increases, the CDI also increases.
+2. The correlation coefficient between the magnitude and NST (Nearshore tsunami) is 0.11311434379917883, indicating a moderate positive correlation. This means that when the magnitude increases, the NST also tends to increase, but not as strongly as the CDI.
+3. The correlation coefficient between the magnitude and MMI (Magnitude-weighted mean intensity) is 0.28555187372830937, indicating a moderate positive correlation. This means that when the magnitude increases, the MMI also tends to increase, but not as strongly as the CDI.
+4. The correlation coefficient between the magnitude and SIG (Significance) is 0.5158707313598007, indicating a moderate positive correlation. This means that when the magnitude increases, the SIG also tends to increase, but not as strongly as the CDI.
+5. The correlation coefficient between the magnitude and LAT (Latitude) is -0.008551563436749123, indicating a weak negative correlation. This means that when the magnitude increases, the latitude tends to decrease slightly, but not significantly.
+6. The correlation coefficient between the magnitude and LONG (Longitude) is -0.013910952767835667, indicating a weak negative correlation. This means that when the magnitude increases, the longitude tends to decrease slightly, but not significantly.
+7. The correlation coefficient between the magnitude and YEAR (Year) is -0.057083206482915844, indicating a moderate negative correlation. This means that when the magnitude increases, the year tends to decrease slightly, but not significantly.
+8. The correlation coefficient between the magnitude and MONTH (Month) is -0.0119259934
+
