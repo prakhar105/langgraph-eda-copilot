@@ -8,7 +8,7 @@ Upload any CSV dataset → Let the pipeline ingest, clean, analyze, summarize, a
 
 ## 🚀 Demo Preview
 
-<img src="demo/demo_gradio_ui.png" width="800"/>
+![](https://github.com/prakhar105/langgraph-eda-copilot/blob/master/assests/img.png)
 
 ---
 
