@@ -97,7 +97,7 @@ python gradio_app.py
 
 ##  Features
 
--  Agent-based modular design using LangGraph
+-  Agent based modular design using LangGraph
 -  Automatic data cleaning (nulls, types, imputation)
 -  Descriptive stats, correlation matrix, skewness
 -  Feature insights (high-cardinality, missing %, etc.)
